@@ -21,3 +21,5 @@ Black-Scholes formula implementation
 Convergence analysis of simulation vs analytical pricing
 
 Option Greeks calculation (e.g., Delta)
+
+📄 [View the code notebook here](./Monte%20Carlo%20Option%20Pricing.ipynb)
