@@ -14,11 +14,9 @@ Plots convergence and pricing accuracy with Matplotlib
 
 📈 Topics Covered
 
-Random walk simulation of asset prices under geometric Brownian motion
+Random walk simulation of stock prices under geometric Brownian motion
 
-Black-Scholes formula implementation
-
-Convergence analysis of simulation vs analytical pricing
+Convergence analysis of simulation vs Black-Scholes pricing
 
 Option Greeks calculation (e.g., Delta)
 
